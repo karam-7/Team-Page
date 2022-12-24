@@ -1,5 +1,4 @@
 
-
 <h1 align="center">{Team Page}</h1>
 
 <div align="center">
@@ -8,46 +7,40 @@
 
 <div align="center">
   <h3>
-    
+    <a href="https://karam-7.github.io/team-page/">
+      Demo
+    </a>
     <span> | </span>
-    <ahttps://github.com/karam-7/Team-Page">
+    <a href="https://github.com/karam-7/team-page">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 ## Table of Contents
 
+- [Overview](#overview) 
 - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-<!-- OVERVIEW -->
-
-
 
 ### Built With
-
-
 
 - [HTML](https://html.com/)
 - [CSS](https://html.com/)
 
 ## Features
 
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
-
 
 - [figma.com] (https://www.figma.com/file/F8d1qJsorEdY47N74HLxQ4/team-page-challenge?node-id=1%3A2&t=N6YKNYhfhCdaecNy-0)
 
@@ -56,3 +49,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Website (http://karam-portfolio.liveblog365.com/)
 - GitHub (https://github.com/karam-7)
 - LinkedIn (https://www.linkedin.com/in/karam-singh-a77818b6/)
+
